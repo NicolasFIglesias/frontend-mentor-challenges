@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&family=Outfit:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d5e1ef;
+}
+
+
+.card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 550px;
+    width: 350px;
+    background-color: #fff;
+    border-radius: 17px;
+    text-align: center;
+    padding: 15px;
+}
+
+img {
+    width: 320px;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #273343;
+    margin-bottom: 10px;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #a1a5b2;
+    margin-bottom: 20px;
+}
