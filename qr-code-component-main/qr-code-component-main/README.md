@@ -1,3 +1,5 @@
+LINK TO THE WEBSITE ---> https://qr-code-nicolasig.netlify.app/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
